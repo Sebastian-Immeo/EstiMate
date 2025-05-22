@@ -1,0 +1,22 @@
+{
+  "name": "estimate",
+  "version": "1.0.0",
+  "description": "A tool for estimating task based on project data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebastian-Immeo/EstiMate.git"
+  },
+  "keywords": [
+    "automation"
+  ],
+  "author": "Sebastian Søgaard Larsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebastian-Immeo/EstiMate/issues"
+  },
+  "homepage": "https://github.com/Sebastian-Immeo/EstiMate#readme"
+}
